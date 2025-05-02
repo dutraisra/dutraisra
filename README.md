@@ -1,4 +1,4 @@
--  Me chamo Israel, tenho 20 anos 
+-  Me chamo Israel, tenho 21 anos 
 -  Tenho interresse em crescer e aprender mais sobre programação
 -  Atualmente estou aprendendo SQL, mas tenho conhecimento em Python e em C.
 -  Procuro colaborar em desenvolvimento de bancos de dados e aprender melhor a utilizar sua ferramentas
